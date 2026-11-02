@@ -1,4 +1,4 @@
-# Electric-Vehicle-Market-Performance-Insights
+
 # Electric Vehicle Market Performance & Insights
 
 ## Project Overview
